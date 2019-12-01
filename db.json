@@ -5,35 +5,11 @@
       "email": "kserzhio@gmail.com",
       "password": "123456",
       "name": "Администратор"
-    },
-    {
-      "email": "kserzhio@gmail.com",
-      "password": "123456",
-      "name": "Serhey Kostenko",
-      "id": 2
-    },
-    {
-      "email": "test@ilr.mnet",
-      "password": "234567",
-      "name": "Serhey Kostenko",
-      "id": 3
-    },
-    {
-      "email": "kserzhio@gmail.com",
-      "password": "123456",
-      "name": "Serhey Kostenko",
-      "id": 4
-    },
-    {
-      "email": "kserzhio@gmail.com",
-      "password": "123456",
-      "name": "Serhey Kostenko",
-      "id": 5
     }
   ],
   "bill": {
-    "value": 100000,
-    "currency": "RUB"
+    "value": 43264,
+    "currency": "UAH"
   },
   "categories": [
     {
